@@ -1,4 +1,4 @@
-from src.windows.mainWindow import start_app
+from windows.mainWindow import start_app
 
 
 if __name__ == "__main__":
